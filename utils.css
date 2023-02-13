@@ -16,5 +16,5 @@ display: flex;
 }
 .items-center{
     align-items: center; /*for align item to center*/
-    margin-top:-16px;
+    margin-top:-10px;
 }
