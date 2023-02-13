@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2&family=Josefin+Sans&family=Roboto+Slab&family=Roboto:wght@300&family=Source+Code+Pro:wght@300&display=swap');
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    overflow: hidden;
+}
+
+button {
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    width: 66px;
+    background-color: rgb(239, 195, 138);
+    
+}
+
+.row {
+    margin: 8px 0px;
+}
+
+.row input {
+    width:270px;
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 8px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.container{
+  width: 25%;
+    border: 3px solid black;
+    border-radius: 10px;
+    background-color: aqua;
+}
+.head{
+    display: flex;
+    justify-content: center;
+}
